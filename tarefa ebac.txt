@@ -1,0 +1,14 @@
+1-Despertador toca;
+2-Acordo;
+3-Sento na Cama;
+4-Faço uma oração;
+5-Vou ao banheiro;
+6-Escovo os dentes;
+7-Saio do banheiro;
+8-Meus pais estão Acordados? Sim
+    1-Dar bom dia pra eles;
+    2-Pergunto se vamos tomar chimarrão;
+9-Não
+    1-Vou para a Cozinha;
+    2-Preparo o chimarrão;
+    3-Espero meus pais acordarem;
